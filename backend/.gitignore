@@ -1,0 +1,84 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Environment
+.env
+
+# Editor
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+typings/
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Local binary files
+*.bin
+*.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Build files
+/build/
+*.pid
+*.tmp
+
+# Misc
+*.db
+*.sqlite3
+*.csv
+*.dat
+
+# Visual Studio Code directories
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
